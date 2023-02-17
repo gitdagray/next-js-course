@@ -50,10 +50,12 @@
 ### ⚙ Free Web Dev Tools
 - 🔗 [Google Chrome Web Browser](https://google.com/chrome/)
 - 🔗 [Visual Studio Code (aka VS Code)](https://code.visualstudio.com/)
+- 🔗 [Node.js & NPM](https://nodejs.org/en/)
 
 ### 📚 References
 - 🔗 [Next.js Official Site](https://nextjs.org/)
 - 🔗 [Next.js 13 Beta Docs](https://beta.nextjs.org/docs)
+- 🔗 [Cloudflare: How does a CDN work?](https://www.cloudflare.com/learning/cdn/what-is-a-cdn/)
 
 ---
 
