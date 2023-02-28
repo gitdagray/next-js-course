@@ -62,4 +62,5 @@
 ### 💻 Source Code
 
 - 🔗 [Chapter 1 - Introduction & Setup](https://github.com/gitdagray/next-js-course/tree/main/next01)
+- 🔗 [Chapter 2 - Pages & Layout](https://github.com/gitdagray/next-js-course/tree/main/next02)
 
