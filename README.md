@@ -51,6 +51,7 @@
 - 🔗 [Google Chrome Web Browser](https://google.com/chrome/)
 - 🔗 [Visual Studio Code (aka VS Code)](https://code.visualstudio.com/)
 - 🔗 [Node.js & NPM](https://nodejs.org/en/)
+- 🔗 [{JSON} Placeholder](https://jsonplaceholder.typicode.com/)
 
 ### 📚 References
 - 🔗 [Next.js Official Site](https://nextjs.org/)
@@ -63,4 +64,5 @@
 
 - 🔗 [Chapter 1 - Introduction & Setup](https://github.com/gitdagray/next-js-course/tree/main/next01)
 - 🔗 [Chapter 2 - Pages & Layout](https://github.com/gitdagray/next-js-course/tree/main/next02)
+- 🔗 [Chapter 3 - Data Fetching, Dynamic Routes & Metadata](https://github.com/gitdagray/next-js-course/tree/main/next03)
 
