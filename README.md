@@ -66,4 +66,5 @@
 - 🔗 [Chapter 2 - Pages & Layout](https://github.com/gitdagray/next-js-course/tree/main/next02)
 - 🔗 [Chapter 3 - Data Fetching, Dynamic Routes & Metadata](https://github.com/gitdagray/next-js-course/tree/main/next03)
 - 🔗 [Chapter 4 - SSG, SSR, & ISR](https://github.com/gitdagray/next-js-course/tree/main/next04)
+- 🔗 [Chapter 5 - Client Components & Small Project](https://github.com/gitdagray/next-js-course/tree/main/next05)
 
