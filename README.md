@@ -1,4 +1,4 @@
-# "Next.js for Beginners"
+# "Next.js 13 for Beginners"
 
 ### Full Course - ?? Chapters
 
@@ -52,11 +52,18 @@
 - 🔗 [Visual Studio Code (aka VS Code)](https://code.visualstudio.com/)
 - 🔗 [Node.js & NPM](https://nodejs.org/en/)
 - 🔗 [{JSON} Placeholder](https://jsonplaceholder.typicode.com/)
+- 🔗 [ES7 React Snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 
 ### 📚 References
 - 🔗 [Next.js Official Site](https://nextjs.org/)
 - 🔗 [Next.js 13 Beta Docs](https://beta.nextjs.org/docs)
 - 🔗 [Cloudflare: How does a CDN work?](https://www.cloudflare.com/learning/cdn/what-is-a-cdn/)
+
+### 🚀 Project Dependencies
+- 🔗 [react-icons](https://www.npmjs.com/package/react-icons)
+- 🔗 [gray-matter](https://www.npmjs.com/package/gray-matter)
+- 🔗 [remark](https://www.npmjs.com/package/remark)
+- 🔗 [remark-html](https://www.npmjs.com/package/remark-html)
 
 ---
 
@@ -67,4 +74,5 @@
 - 🔗 [Chapter 3 - Data Fetching, Dynamic Routes & Metadata](https://github.com/gitdagray/next-js-course/tree/main/next03)
 - 🔗 [Chapter 4 - SSG, SSR, & ISR](https://github.com/gitdagray/next-js-course/tree/main/next04)
 - 🔗 [Chapter 5 - Client Components & Small Project](https://github.com/gitdagray/next-js-course/tree/main/next05)
+- 🔗 [Chapter 6 - Blog Website Project](https://github.com/gitdagray/next-js-course/tree/main/next06)
 
