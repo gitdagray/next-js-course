@@ -76,4 +76,5 @@
 - 🔗 [Chapter 5 - Client Components & Small Project](https://github.com/gitdagray/next-js-course/tree/main/next05)
 - 🔗 [Chapter 6 - Blog Website Project](https://github.com/gitdagray/next-js-course/tree/main/next06)
 - 🔗 [Chapter 7 - Route Handlers for API Routes](https://github.com/gitdagray/next-js-course/tree/main/next07)
+- 🔗 [Chapter 8 - Build a REST API](https://github.com/gitdagray/next-js-course/tree/main/next08)
 
