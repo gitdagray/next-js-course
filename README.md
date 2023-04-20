@@ -78,4 +78,5 @@
 - 🔗 [Chapter 7 - Route Handlers for API Routes](https://github.com/gitdagray/next-js-course/tree/main/next07)
 - 🔗 [Chapter 8 - Build a REST API](https://github.com/gitdagray/next-js-course/tree/main/next08)
 - 🔗 [Chapter 9 - Middleware](https://github.com/gitdagray/next-js-course/tree/main/next09)
+- 🔗 [Chapter 10 - Background & On-Demand Revalidation](https://github.com/gitdagray/next-js-course/tree/main/next10)
 
