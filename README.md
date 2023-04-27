@@ -64,6 +64,7 @@
 - 🔗 [gray-matter](https://www.npmjs.com/package/gray-matter)
 - 🔗 [remark](https://www.npmjs.com/package/remark)
 - 🔗 [remark-html](https://www.npmjs.com/package/remark-html)
+- 🔗 [limiter](https://www.npmjs.com/package/limiter)
 
 ---
 
@@ -79,4 +80,5 @@
 - 🔗 [Chapter 8 - Build a REST API](https://github.com/gitdagray/next-js-course/tree/main/next08)
 - 🔗 [Chapter 9 - Middleware](https://github.com/gitdagray/next-js-course/tree/main/next09)
 - 🔗 [Chapter 10 - Background & On-Demand Revalidation](https://github.com/gitdagray/next-js-course/tree/main/next10)
+- 🔗 [Chapter 11 - Mutating Data](https://github.com/gitdagray/next-js-course/tree/main/next11)
 
