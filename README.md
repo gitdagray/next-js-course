@@ -1,6 +1,6 @@
 # "Next.js 13 for Beginners"
 
-### Full Course - ?? Chapters
+### Full Course - 12 Chapters
 
 ---
 
@@ -58,13 +58,26 @@
 - 🔗 [Next.js Official Site](https://nextjs.org/)
 - 🔗 [Next.js 13 Beta Docs](https://beta.nextjs.org/docs)
 - 🔗 [Cloudflare: How does a CDN work?](https://www.cloudflare.com/learning/cdn/what-is-a-cdn/)
+- - 🔗 [What is MDX?](https://mdxjs.com/docs/what-is-mdx/)
+- 🔗 [next-mdx-remote RSC Docs](https://github.com/hashicorp/next-mdx-remote#react-server-components-rsc--nextjs-app-directory-support)
 
-### 🚀 Project Dependencies
+### 🚀 Early Project Dependencies
 - 🔗 [react-icons](https://www.npmjs.com/package/react-icons)
 - 🔗 [gray-matter](https://www.npmjs.com/package/gray-matter)
 - 🔗 [remark](https://www.npmjs.com/package/remark)
 - 🔗 [remark-html](https://www.npmjs.com/package/remark-html)
 - 🔗 [limiter](https://www.npmjs.com/package/limiter)
+- 
+### 🚀 Final Project Dependencies
+- 🔗 [react-icons](https://www.npmjs.com/package/react-icons)
+- 🔗 [next-mdx-remote](https://www.npmjs.com/package/next-mdx-remote)
+- 🔗 [highlight.js](https://www.npmjs.com/package/highlight.js)
+- 🔗 [rehype-highlight](https://www.npmjs.com/package/rehype-highlight)
+- 🔗 [rehype-slug](https://www.npmjs.com/package/rehype-slug)
+- 🔗 [rehype-autolink-headings](https://www.npmjs.com/package/rehype-autolink-headings)
+- 🔗 [sharp](https://www.npmjs.com/package/sharp)
+- 🔗 [next-sitemap](https://www.npmjs.com/package/next-sitemap)
+
 
 ---
 
@@ -81,4 +94,5 @@
 - 🔗 [Chapter 9 - Middleware](https://github.com/gitdagray/next-js-course/tree/main/next09)
 - 🔗 [Chapter 10 - Background & On-Demand Revalidation](https://github.com/gitdagray/next-js-course/tree/main/next10)
 - 🔗 [Chapter 11 - Mutating Data](https://github.com/gitdagray/next-js-course/tree/main/next11)
+- 🔗 [Chapter 12 - Final Project: Build & Deploy a Blog with Remote MDX Content](https://github.com/gitdagray/next-js-course/tree/main/next12)
 
