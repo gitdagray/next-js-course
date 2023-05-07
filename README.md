@@ -1,6 +1,6 @@
 # "Next.js 13 for Beginners"
 
-### Full Course - 12 Chapters
+### Full Course - ?? Chapters
 
 ---
 
@@ -67,17 +67,6 @@
 - 🔗 [remark](https://www.npmjs.com/package/remark)
 - 🔗 [remark-html](https://www.npmjs.com/package/remark-html)
 - 🔗 [limiter](https://www.npmjs.com/package/limiter)
-- 
-### 🚀 Final Project Dependencies
-- 🔗 [react-icons](https://www.npmjs.com/package/react-icons)
-- 🔗 [next-mdx-remote](https://www.npmjs.com/package/next-mdx-remote)
-- 🔗 [highlight.js](https://www.npmjs.com/package/highlight.js)
-- 🔗 [rehype-highlight](https://www.npmjs.com/package/rehype-highlight)
-- 🔗 [rehype-slug](https://www.npmjs.com/package/rehype-slug)
-- 🔗 [rehype-autolink-headings](https://www.npmjs.com/package/rehype-autolink-headings)
-- 🔗 [sharp](https://www.npmjs.com/package/sharp)
-- 🔗 [next-sitemap](https://www.npmjs.com/package/next-sitemap)
-
 
 ---
 
@@ -94,5 +83,5 @@
 - 🔗 [Chapter 9 - Middleware](https://github.com/gitdagray/next-js-course/tree/main/next09)
 - 🔗 [Chapter 10 - Background & On-Demand Revalidation](https://github.com/gitdagray/next-js-course/tree/main/next10)
 - 🔗 [Chapter 11 - Mutating Data](https://github.com/gitdagray/next-js-course/tree/main/next11)
-- 🔗 [Chapter 12 - Final Project: Build & Deploy a Blog with Remote MDX Content](https://github.com/gitdagray/next-js-course/tree/main/next12)
+
 
