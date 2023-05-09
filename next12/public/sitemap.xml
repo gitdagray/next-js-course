@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url><loc>http://localhost.com/favicon.ico</loc><lastmod>2023-05-09T02:19:09.105Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://localhost.com</loc><lastmod>2023-05-09T02:19:09.105Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://localhost.com/tags/next.js</loc><lastmod>2023-05-09T02:19:09.105Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://localhost.com/tags/nextjs</loc><lastmod>2023-05-09T02:19:09.105Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://localhost.com/tags/stuff</loc><lastmod>2023-05-09T02:19:09.105Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://localhost.com/tags/new</loc><lastmod>2023-05-09T02:19:09.105Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://localhost.com/tags/ssg</loc><lastmod>2023-05-09T02:19:09.105Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://localhost.com/tags/ssr</loc><lastmod>2023-05-09T02:19:09.105Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://localhost.com/posts/tomorrow</loc><lastmod>2023-05-09T02:19:09.105Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://localhost.com/posts/more</loc><lastmod>2023-05-09T02:19:09.105Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://localhost.com/posts/another</loc><lastmod>2023-05-09T02:19:09.105Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://localhost.com/posts/new</loc><lastmod>2023-05-09T02:19:09.105Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://localhost.com/posts/ssg-ssr</loc><lastmod>2023-05-09T02:19:09.105Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://localhost.com/posts/pre-rendering</loc><lastmod>2023-05-09T02:19:09.105Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+</urlset>
