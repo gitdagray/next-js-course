@@ -38,7 +38,7 @@ export default async function UserPage({ params: { userId } }: Params) {
 
     const user = await userData
 
-    if (!user.name) return notFound()
+    if (!user.name) notFound()
 
     return (
         <>

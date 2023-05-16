@@ -4,7 +4,7 @@ import { notFound } from "next/navigation"
 import Link from "next/link"
 
 export function generateStaticParams() {
-    const posts = getSortedPostsData() //deduped!
+    const posts = getSortedPostsData()
 
     return posts.map((post) => ({
         postId: post.id
@@ -13,7 +13,7 @@ export function generateStaticParams() {
 
 export function generateMetadata({ params }: { params: { postId: string } }) {
 
-    const posts = getSortedPostsData() //deduped!
+    const posts = getSortedPostsData()
     const { postId } = params
 
     const post = posts.find(post => post.id === postId)
@@ -31,12 +31,10 @@ export function generateMetadata({ params }: { params: { postId: string } }) {
 
 export default async function Post({ params }: { params: { postId: string } }) {
 
-    const posts = getSortedPostsData() //deduped!
+    const posts = getSortedPostsData()
     const { postId } = params
 
-    if (!posts.find(post => post.id === postId)) {
-        return notFound()
-    }
+    if (!posts.find(post => post.id === postId)) notFound()
 
     const { title, date, contentHtml } = await getPostData(postId)
 
