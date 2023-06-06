@@ -58,7 +58,7 @@
 - 🔗 [Next.js Official Site](https://nextjs.org/)
 - 🔗 [Next.js 13 Docs](https://nextjs.org/docs)
 - 🔗 [Cloudflare: How does a CDN work?](https://www.cloudflare.com/learning/cdn/what-is-a-cdn/)
-- - 🔗 [What is MDX?](https://mdxjs.com/docs/what-is-mdx/)
+- 🔗 [What is MDX?](https://mdxjs.com/docs/what-is-mdx/)
 - 🔗 [next-mdx-remote RSC Docs](https://github.com/hashicorp/next-mdx-remote#react-server-components-rsc--nextjs-app-directory-support)
 
 ### 🚀 Early Project Dependencies
