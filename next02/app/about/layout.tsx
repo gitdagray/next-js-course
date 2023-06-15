@@ -1,4 +1,4 @@
-import './globals.css'
+import styles from 'styles.module.css'
 
 export default function AboutLayout({
   children,
@@ -8,7 +8,7 @@ export default function AboutLayout({
   return (
     <>
       <nav>About NavBar</nav>
-      <main>
+      <main className={styles.main}>
         {children}
       </main>
     </>
